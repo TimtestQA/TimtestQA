@@ -1,4 +1,4 @@
-[![Header](https://github.com/TimtestQA/TimtestQA/blob/main/assets/Logo.png]
+![Header](https://github.com/TimtestQA/TimtestQA/blob/main/assets/Logo.png)
 ## I'm a QA Engineer and Tutor. 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
