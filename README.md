@@ -1,18 +1,9 @@
 ![Header](https://github.com/TimtestQA/TimtestQA/blob/main/assets/Logo.png)
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
+## I'm a Junior QA Engineer. 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
-## Latest Youtube Videos
 
-<!-- YOUTUBE:START -->
-- [Что такое симулятор и эмулятор?](https://www.youtube.com/watch?v=1xS7Y4eruxY)
-- [Эфир с тестировщиком: курсы и Youtube](https://www.youtube.com/watch?v=FmsgHaDgbTs)
-- [ТЫ MIDDLE QA ENGINEER ЕСЛИ… #тестировщикпо #тестировщик #тестировщикснуля](https://www.youtube.com/watch?v=PPrTznA66KI)
-- [Зачем тестировщику Charles Proxy и Fiddler? #тестировщикснуля](https://www.youtube.com/watch?v=0wV6bYwsjfY)
-- [ПОЧЕМУ ТЕБЯ НЕ БЕРУТ НА РАБОТУ ТЕСТИРОВЩИКОМ? #войтивайти #тестировщик](https://www.youtube.com/watch?v=FDcy0gLUPJ8)
-<!-- YOUTUBE:END -->
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
