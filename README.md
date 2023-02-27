@@ -1,7 +1,7 @@
 ![Header](https://github.com/TimtestQA/TimtestQA/blob/main/assets/Logo.png)
 ## I'm a Junior QA Engineer. 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV](https://docs.google.com/document/d/1R6fNKKp6c2_B48MMCElnMLNrW-vT4Tuqe6QCRkdp3mI/edit?usp=sharing)
 
 
 
