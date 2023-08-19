@@ -1,5 +1,5 @@
 ![Header](https://github.com/TimtestQA/TimtestQA/blob/main/assets/Logo.png)
-## I'm a Junior QA Engineer. 
+## Hi, I am a novice specialist in the QA direction 
 ## My CV
 
 
