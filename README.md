@@ -2,6 +2,7 @@
 ## Hi, I am a novice specialist in the QA direction 
 ## My CV
 
+
 ###  📁 Testing Documentation
 
 - [Checklists](https://github.com/TimtestQA/checklist)
@@ -11,31 +12,16 @@
 - [Postman Collections](https://www.postman.com/supply-geoscientist-41924051/workspace/petstore/collection/25676439-86b8b22c-1e7a-42d7-911d-7099cd44ce29?action=share&creator=25676439)
 - [Test plans/Reports on the conducted testing ](https://github.com/TimtestQA/Test-plans_Reports-of-testing.git)
 
-### Follow Me
-
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/@TimofeyQA)
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](****)
-[![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/@The_road_to_QA)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimtestQA&show_icons=true&theme=radical)
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
 
 ---
+### 📫 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-Timofey%20Kuznetsov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/Timofey%20Kuznetsov/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kendo.sportchannel@gmail.com)
 
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
 
 ---
+### Skills and tools 🛠💪💻💡 
 
-### 📁 Testing Documentation and Tools:
+
+### 📁 Testing docunetation:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -48,7 +34,7 @@
 
 ---
 
-### 🛠 Тестирование веб-приложений:
+### 🛠 Web app testing:
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -58,7 +44,7 @@
 
 ---
 
-### 📱 Тестирование мобильных приложений:
+### 📱 Mobile app testing:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -71,7 +57,7 @@
 
 ---
 
-### 💾 Работа с данными:
+### 💾 Working with data:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -80,7 +66,7 @@
 
 ---
 
-### ✏️ Работа с кодом:
+### ✏️ Working with code:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -91,12 +77,13 @@
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
+| [artsiomrusau.com](https://artsiomrusau.com/)/ Курс "Функциональное тестирование ПО"              | 02/2022 - 03/2022 |
 
---- -->
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TimtestQA)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimtestQA&show_icons=true&theme=radical)
