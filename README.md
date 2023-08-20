@@ -15,6 +15,7 @@ Here I posted a portfolio with information about the knowledge and skills of tes
 - [SQL Queries](https://github.com/TimtestQA/SQL)
 - [Postman Collections](https://www.postman.com/supply-geoscientist-41924051/workspace/petstore/collection/25676439-86b8b22c-1e7a-42d7-911d-7099cd44ce29?action=share&creator=25676439)
 - [Test plans/Reports on the conducted testing ](https://github.com/TimtestQA/Test-plans_Reports-of-testing.git)
+- [Bash commands](https://github.com/TimtestQA/Bash.git)
 
 
 ---
