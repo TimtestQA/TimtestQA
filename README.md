@@ -1,7 +1,8 @@
 ![Header](https://github.com/TimtestQA/TimtestQA/blob/main/assets/Logo.png)
-## Hi, I am a novice specialist in the QA direction 
-## My CV
-
+## Hi, I am a novice specialist in the QA direction.
+---
+## My CV 📄[Timofey Kuzntsov CV](https://drive.google.com/file/d/1CB5cJuO6FffuPWP42GLgG_HvlN_MPw-S/view?usp=sharing)
+---
 
 ###  📁 Testing Documentation
 
@@ -79,7 +80,7 @@
 
 ### 👨‍🎓 Completed training courses:
 
-| Курсы                                                           | Дата              |
+| Courses                                                           | Date              |
 | ----------------------------------------------------------------| :---------------: |
 | [artsiomrusau.com](https://artsiomrusau.com/)/ Курс "Функциональное тестирование ПО"              | 06/2023 - 09/2023 |
 
