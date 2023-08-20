@@ -1,5 +1,8 @@
 ![Header](https://github.com/TimtestQA/TimtestQA/blob/main/assets/Logo.png)
-## Hi, I am a novice specialist in the QA direction.
+### Hello there.
+<p>My name is Timofey, I am a beginner quality control specialist.
+Here I posted a portfolio with information about the knowledge and skills of testing that I acquired in software testing courses.</p> 
+
 ---
 ## My CV 📄[Timofey Kuzntsov CV](https://drive.google.com/file/d/1CB5cJuO6FffuPWP42GLgG_HvlN_MPw-S/view?usp=sharing)
 ---
