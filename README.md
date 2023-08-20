@@ -25,7 +25,7 @@
 
 - [Checklists](https://github.com/TimtestQA/checklist)
 - [Test-Cases](https://github.com/TimtestQA/Test-cases)
-- [Bug-Reports](https://github.com/TimtestQAe/Bug-reports)
+- [Bug-Reports](https://github.com/TimtestQAe/Bug-Reports)
 - [SQL Queries](https://github.com/TimtestQA/SQL)
 - [Postman Collections](https://www.postman.com/supply-geoscientist-41924051/workspace/petstore/collection/25676439-86b8b22c-1e7a-42d7-911d-7099cd44ce29?action=share&creator=25676439)
 
