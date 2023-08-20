@@ -2,7 +2,7 @@
 ## Hi, I am a novice specialist in the QA direction 
 ## My CV
 
-### Testing Documentation
+###  📁 Testing Documentation
 
 - [Checklists](https://github.com/TimtestQA/checklist)
 - [Test-Cases](https://github.com/TimtestQA/Test-cases)
@@ -35,7 +35,7 @@
 
 ---
 
-### 📁 Тестовая документация:
+### 📁 Testing Documentation and Tools:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
