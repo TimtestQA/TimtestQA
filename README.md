@@ -1,5 +1,8 @@
 ![Header](https://github.com/TimtestQA/TimtestQA/blob/main/assets/Logo.png)
-## Hi, I am a novice specialist in the QA direction.
+### Hello there.
+<p> My name is Timofey, I am a novice QA enginer.
+Here I have posted a portfolio with information about the knowledge and testing skills I have acquired, as part of the master's degree in functional software testing.</p> 
+
 ---
 ## My CV 📄[Timofey Kuzntsov CV](https://drive.google.com/file/d/1CB5cJuO6FffuPWP42GLgG_HvlN_MPw-S/view?usp=sharing)
 ---
