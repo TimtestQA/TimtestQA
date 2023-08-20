@@ -7,7 +7,7 @@ Here I posted a portfolio with information about the knowledge and skills of tes
 ## My CV 📄[Timofey Kuzntsov CV](https://drive.google.com/file/d/1CB5cJuO6FffuPWP42GLgG_HvlN_MPw-S/view?usp=sharing)
 ---
 
-###  📁 Testing Documentation
+###  📁 🐜Test Artifacts
 
 - [Checklists](https://github.com/TimtestQA/checklist)
 - [Test-Cases](https://github.com/TimtestQA/Test-cases)
