@@ -21,7 +21,7 @@ Here I posted a portfolio with information about the knowledge and skills of tes
 
 
 ---
-### 📫 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-Timofey%20Kuznetsov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/Timofey%20Kuznetsov/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kendo.sportchannel@gmail.com)
+### 📫 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-Timofey%20Kuznetsov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/qa-timofey-kuznetsov/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kendo.sportchannel@gmail.com)
 
 
 ---
