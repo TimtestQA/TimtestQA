@@ -4,7 +4,7 @@
 Here I posted a portfolio with information about the knowledge and skills of testing that I acquired in software testing courses.</p> 
 
 ---
-## My CV 📄[Timofey Kuzntsov CV](https://drive.google.com/file/d/1CB5cJuO6FffuPWP42GLgG_HvlN_MPw-S/view?usp=sharing)
+## My CV 📄[Timofey Kuzntsov CV](https://docs.google.com/document/d/1nCOlBC6_TyGMdkS1uBJVfvlu4xrD09cUxj0rt6xuYaw/edit?usp=sharing)
 ---
 
 ###  📁 🐜Test Artifacts
