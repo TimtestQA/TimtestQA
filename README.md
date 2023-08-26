@@ -91,6 +91,8 @@ Here I posted a portfolio with information about the knowledge and skills of tes
 | [artsiomrusau.com](https://artsiomrusau.com/)/ Курс "Функциональное тестирование ПО"              | 06/2023 - 09/2023 |
 
 ---
+### 📜Certificates:
+[QA endineer](https://v2.coreapp.ai/certificate/pdf/64e9b340f0453533f4d1fa30)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimtestQA&show_icons=true&theme=radical)
 ---
