@@ -1,10 +1,26 @@
 ![Header](https://github.com/TimtestQA/TimtestQA/blob/main/assets/Logo.png)
-### Hello there.
-<p>My name is Timofey, I am a beginner quality control specialist.
-Here I posted a portfolio with information about the knowledge and skills of testing that I acquired in software testing courses.</p> 
+### Hello there!
 
----
-## My CV 📄[Timofey Kuzntsov CV](https://docs.google.com/document/d/1nCOlBC6_TyGMdkS1uBJVfvlu4xrD09cUxj0rt6xuYaw/edit?usp=sharing)
+I am a QA engineer with hands-on experience in functional and automated testing of web, mobile, and API applications.
+
+🚀 I work with:
+- **Python**, **Selenium**, **Pytest** – for UI and regression automation (using Page Object Model)
+- **REST API testing** – using **Postman**, **Python requests**
+- **Manual testing** – for Android, iOS, and web applications
+- **Test documentation** – writing and updating checklists and test cases
+- **Git**, **Docker**, **CI/CD** – for collaborative and automated workflows
+- **SQL** – for database validation
+
+🔧 Tools: Jira, Allure, GitHub Actions, PyCharm, Charles Proxy
+
+🧠 Constantly learning and improving:
+- Completed automation training by QA-Proka4 (including Selenium, API, bots, GitHub Actions)
+- Currently studying **Playwright**
+
+📊 Passionate about improving test processes, reducing bugs, and delivering high-quality software.
+
+⚔️ In my free time, I practice **kendo** and enjoy **SUP-boarding** in search of dolphins. 🐬
+
 ---
 
 ###  📁 🐜Test Artifacts
