@@ -22,7 +22,7 @@ I am a QA engineer with hands-on experience in functional and automated testing 
 ⚔️ In my free time, I practice **kendo** and enjoy **SUP-boarding** in search of dolphins. 🐬
 
 ---
-
+Manual exp (OLD INFO)
 ###  📁 🐜Test Artifacts
 
 - [Checklists](https://github.com/TimtestQA/checklist)
