@@ -1,4 +1,4 @@
-![Header](https://github.com/TimtestQA/TimtestQA/blob/main/assets/Logo.png)
+![Header](Logo.png)
 ### Hello there!
 
 I am a QA engineer with hands-on experience in functional and automated testing of web, mobile, and API applications.
